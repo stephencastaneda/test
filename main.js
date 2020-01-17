@@ -1,1 +1,1 @@
-console.log("I love JS most of the timessss")
+console.log("I love JS and you should too")
